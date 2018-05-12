@@ -1,0 +1,36 @@
+#top-bar {
+  margin-top: 15px;
+}
+
+#top-bar a {
+  text-decoration: none;
+  color: inherit;
+  padding-left: 10px;
+}
+
+#top-bar a:hover {
+  text-decoration: underline;
+}
+
+#top-left{
+  display: block;
+  float: left;
+}
+
+#top-right {
+  display: block;
+  float: right;
+}
+
+#apps-icon {
+  background-image: url("https://ssl.gstatic.com/gb/images/i2_2ec824b0.png");
+  background-position: -132px -38px;
+}
+
+#notifications-icon {
+  
+}
+
+#profile-pic {
+  
+}
